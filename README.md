@@ -116,13 +116,7 @@ imgRGB = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
 ## Example Output
 
-Once everything is set up, the code should detect and draw key points on the hand in real-time, as shown in the example image above.
+Once everything is set up, the code should detect and draw key points on the hand in real-time, as shown in this picture 
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-You can copy this `README.md` file to your project directory. Make sure to update the image link and any other specific details that might change.
 ![image](https://github.com/user-attachments/assets/754e1f41-53f7-4b74-a13a-20c7b96b1dd5)
